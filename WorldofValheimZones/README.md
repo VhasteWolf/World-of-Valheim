@@ -1,4 +1,5 @@
-This version adds the option in the configuretion to not send messages when changing zone.
+This version adds the option in the configuretion to not send messages when changing zone. 
+You can find it here: https://github.com/VhasteWolf/World-of-Valheim/tree/0.8.3
 
 Please Note: This mod is a BepInEx Plugin? and thus requires this in order to be used.
 
