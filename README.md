@@ -1,6 +1,4 @@
-Hearth and Home updates where provided by: Klugemonkey https://github.com/klugemonkey/World-of-Valheim-Public
-
-I appreciate all the help and I hope you all continue to enjoy these plugins!
+I don't own this mod, i just changing it. Owner: HackShardGaming https://github.com/HackShardGaming/World-of-Valheim-Public
 
 Welcome to the World of Valheim mod collection. 
 

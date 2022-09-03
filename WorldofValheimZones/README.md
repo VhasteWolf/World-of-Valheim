@@ -245,14 +245,14 @@ Example of a working Zones.txt
 # PVP_Enforce: Force PVP mode on the users.
 # Position_Show: Should we show our position in the zone?
 # Position_Enforce: Force position on the users.
+# Message_Annoucement: Should be show a message on zone change?
 #
-# Type: [ZoneTypeName] [PVP_Mode] [PVP_Enforce] [Position_Show] [Position_Enforce]
-
+# Type: [ZoneTypeName] [PVP_Mode] [PVP_Enforce] [Position_Show] [Position_Enforce] [Message_Annoucement]
 
 # wilderness is the default zone for everywhere
 Type: wilderness true false
-Type: safe false true true true
-Type: battle true true false true
+Type: safe false true true true true
+Type: battle true true false true true
 
 
 # [ZoneConfigurations]
