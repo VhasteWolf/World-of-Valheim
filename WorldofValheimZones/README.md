@@ -1,3 +1,5 @@
+This version adds the option in the configuretion to not send messages when changing zone.
+
 Please Note: This mod is a BepInEx Plugin? and thus requires this in order to be used.
 
 Welcome to the World of Valheim - Zones Plugin.
