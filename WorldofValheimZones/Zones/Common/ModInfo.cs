@@ -11,8 +11,8 @@ namespace WorldofValheimZones
         public const string Group = "Vhaste";
         public const string Guid = "VhasteWolf.WorldofValheimZones";
         // Version follow Semantic Versioning Scheme (https://semver.org/)
-        public const string Version = "0.8.3";
-        public const string buildDate = "2022-09-03";
+        public const string Version = "0.8.5";
+        public const string buildDate = "2022-09-07";
         // Nexus Plugin ID (Use to maintain updates with Nexus)
         public const int NexusID = 891;
         // Use GetBuildDate(Assembly.GetExecutingAssembly()); to get build date
