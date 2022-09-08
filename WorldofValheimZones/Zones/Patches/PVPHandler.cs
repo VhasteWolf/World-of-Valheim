@@ -67,8 +67,10 @@ namespace WorldofValheimZones
                         InventoryGui.instance.m_pvp.interactable = !Client.PVPEnforced;
                         ZNet.instance.SetPublicReferencePosition(Client.ShowPosition);
                         if (Client.MessageAnnoucement)
+                        {
                             Util.InsertChatMessage(Message);
                             Player.m_localPlayer.Message(MessageHud.MessageType.Center, Message, 0, null);
+                        }
                         // Other settings are scattered among the wind to other functions
                         // (Use Client class for the current state)
                     }
